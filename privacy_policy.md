@@ -1,8 +1,8 @@
-# Knowledge Master Bot - Privacy Policy
+# BTOP - Privacy Policy
 
 Last Updated: 17.08.2023
 
-Thank you for using the Knowledge Master Bot ("the Bot"). This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you interact with the Bot. By using the Bot, you consent to the practices described in this policy.
+Thank you for using BTOP ("the Bot"). This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you interact with the Bot. By using the Bot, you consent to the practices described in this policy.
 
 ## 1. Information Collection
 
@@ -44,6 +44,6 @@ a. We reserve the right to update or modify this Privacy Policy at any time. Whe
 
 ## 8. Contact Us
 
-If you have questions or concerns about this Privacy Policy, please contact us at knowledge.master.bot@gmail.com .
+If you have questions or concerns about this Privacy Policy, please contact us at terminal.dev.helpdesk@gmail.com .
 
-By using the Knowledge Master Bot, you acknowledge that you have read, understood, and agreed to the practices described in this Privacy Policy.
+By using the bot BTOP, you acknowledge that you have read, understood, and agreed to the practices described in this Privacy Policy.
